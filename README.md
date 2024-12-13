@@ -105,7 +105,7 @@ sudo systemctl restart nginx
 
 Go to `http://ec2-publicDNS.amazonaws.com` to see the index page with text "Set to go".
 
-### 📧ID and no ID
+### 📧Embedding
 The project allows pixel emeddings with or without id for recognition.
 ```
 http://ec2-publicDNS.amazonaws.com/pixel
